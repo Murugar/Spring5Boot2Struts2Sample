@@ -6,6 +6,6 @@
     <link rel="stylesheet" type="text/css" href="css/quotetools.css">
 </head>
 <body>
-	Welcome to Spring6 Boot2 Struts2 
+	Welcome to Spring5 Boot2 Struts2 
 </body>
 </html>
